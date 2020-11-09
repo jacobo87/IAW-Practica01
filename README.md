@@ -1,7 +1,8 @@
 ## IAW-Práctica01
-> IES Celia Viñas (Almería) - Curso 2020/2021 
-Módulo: IAW - Implantación de Aplicaciones Web 
-Ciclo: CFGS Administración de Sistemas Informáticos en Red 
+> IES Celia Viñas (Almería) - Curso 2020/2021  
+> Módulo: IAW - Implantación de Aplicaciones Web  
+> Ciclo: CFGS Administración de Sistemas Informáticos en Red 
+ 
 ### Instalación pila lamp
 Contenido de la práctica 01 de IAW, instalación de pila lamp:
 
